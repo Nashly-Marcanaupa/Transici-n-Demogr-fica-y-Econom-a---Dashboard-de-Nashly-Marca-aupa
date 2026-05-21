@@ -1,4 +1,4 @@
-# Transicion-Demogrofica-y-Economia-Dashboard-de-Nashly-Marcanaupa
+# Transición Demográfica y Economia_Dashboard de Nashly Marcanaupa
 <img width="1906" height="996" alt="image" src="https://github.com/user-attachments/assets/07fbc201-99e7-443e-b69c-5f81e0a6acfd" />
 Este dashboard presenta un análisis interactivo sobre la relación entre la transición demográfica y el desarrollo económico mundial utilizando la base de datos Gapminder. El objetivo es explorar cómo variables demográficas y económicas evolucionan en distintos países y continentes a lo largo del tiempo, permitiendo identificar patrones de crecimiento, desigualdad y desarrollo.
 El panel incluye indicadores principales como población total, esperanza de vida y PIB per cápita, los cuales permiten observar la situación económica y demográfica del país seleccionado. Además, incorpora un mapa mundial interactivo que muestra la distribución geográfica de los países según su nivel económico y tamaño poblacional, facilitando la comparación entre regiones del mundo.
